@@ -26,3 +26,7 @@ https://lyonwj.com/blog/graphql-server-next-js-neo4j-aura-vercel
 https://levelup.gitconnected.com/get-graqhql-playground-up-and-running-in-nextjs-2da7a2105713
 
 https://github.com/vercel/next.js/tree/canary/examples/api-routes-graphql
+
+C:\Users\Alexander\OneDrive\Pictures\Screenshots
+
+/mnt/c/users/alexander/onedrive/pictures/screenshots/next-gaphql.png
