@@ -30,3 +30,5 @@ https://github.com/vercel/next.js/tree/canary/examples/api-routes-graphql
 C:\Users\Alexander\OneDrive\Pictures\Screenshots
 
 /mnt/c/users/alexander/onedrive/pictures/screenshots/next-gaphql.png
+
+https://blog.logrocket.com/building-a-graphql-server-in-next-js/
